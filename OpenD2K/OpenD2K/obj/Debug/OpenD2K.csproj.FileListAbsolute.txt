@@ -1,0 +1,7 @@
+C:\Users\Tymon\source\repos\OpenD2K\OpenD2K\obj\Debug\OpenD2K.csprojAssemblyReference.cache
+C:\Users\Tymon\source\repos\OpenD2K\OpenD2K\obj\Debug\OpenD2K.csproj.CoreCompileInputs.cache
+C:\Users\Tymon\source\repos\OpenD2K\OpenD2K\bin\Debug\OpenD2K.exe.config
+C:\Users\Tymon\source\repos\OpenD2K\OpenD2K\bin\Debug\OpenD2K.exe
+C:\Users\Tymon\source\repos\OpenD2K\OpenD2K\bin\Debug\OpenD2K.pdb
+C:\Users\Tymon\source\repos\OpenD2K\OpenD2K\obj\Debug\OpenD2K.exe
+C:\Users\Tymon\source\repos\OpenD2K\OpenD2K\obj\Debug\OpenD2K.pdb
